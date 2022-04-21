@@ -1,1 +1,1 @@
-
+A Todo app where users can add their tasks.User can also Update tasks. They can also delete tasks whenever they gets completed or according to their wish. I have used React hooks, so useEffect, useState, and useRef.
